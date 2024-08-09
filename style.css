@@ -1,0 +1,84 @@
+.nav-link{
+    margin-left: 50px;
+}
+.img1{
+    margin-left: 100px;
+    margin-top: 60px;
+    opacity: 25%;
+}
+.img2{
+    margin-left: 800px;
+    height: 500px;
+    opacity: 20%;
+    
+}
+.hood{
+    font-size: 60px;
+    font-weight: 800;
+    text-shadow: 2px 3px 2px rgb(147, 125, 0);
+}
+.t3{
+    font-size: 20px;
+}
+.text{
+    margin-top: -700px;
+    padding: 50px;
+    position: relative;
+    color: white;
+}
+
+.paint{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    font-weight: 800;
+}
+.main img{
+    margin-left: 600px;
+    margin-top: -200px;
+}
+body{
+    background-color: black;
+}
+.para{
+    margin: 30px;
+}
+h3{
+    color: rgb(236, 22, 236);
+    font-family: "Dancing Script", cursive;
+}
+.end{
+    font-family: "Pacifico", cursive;
+}
+.end h2{
+    color: plum;
+}
+p{
+    font-family: "Signika", sans-serif;
+}
+p ul li{
+    font-family: "Signika", sans-serif;
+}
+hr{
+    color: white;
+    font-weight: 500;
+}
+h4{
+    color: rgb(238, 195, 238);
+}
+.col-3 img{
+    height: 300px;
+    width: 280px;
+    /* margin-bottom: 150px; */
+}
+.row{
+    display: flex;
+}
+.overlay{
+    z-index: -999;
+    /* margin-top: -800px; */
+}
+.col-4 img{
+    margin-right: 50px;
+    height: 250px;
+    width: 400px;
+}
